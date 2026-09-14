@@ -87,15 +87,15 @@ const staffData = {
       title: "Design Team",
       members: [
         { name: "Ayca Somers", role: "graphic designer", photo: "assets/images/ayca.jpeg", bio: "giddily cosplaying as a locked in professional " },
-        { name: "Jaimie Barit", role: "graphic designer", photo: "assets/images/jaimie.jpeg", bio: "that one whimsical rock chic borzoi that's really into tragedies, fashion, art, and theater ★" }
-
+        { name: "Jaimie Barit", role: "graphic designer", photo: "assets/images/jaimie.jpeg", bio: "that one whimsical rock chic borzoi that's really into tragedies, fashion, art, and theater ★" },
+        { name: "Divyanshee Tarai", role: "graphic designer", photo: "assets/images/divyanshi.jpg", bio: "professionally curious, creatively restless, and always three tabs away from somewhere else" }
       ]
     },
     review: {
       title: "Review Team",
       members: [
-        { name: "Divena Upadhyae", role: "reviewer", photo: "assets/images/divena.jpeg", bio: "an aspiring author and a language enthusiast from the Himalayas, who spends most of her time listening to music, delaying her assignments and watching c-dramas."}
-        
+        { name: "Divena Upadhyae", role: "reviewer", photo: "assets/images/divena.jpeg", bio: "an aspiring author and a language enthusiast from the Himalayas, who spends most of her time listening to music, delaying her assignments and watching c-dramas."},
+        { name: "Zainab Noor", role: "reviewer", photo: "assets/images/zainab.jpg", bio: "Writer, reader, and occasional pinterest doomscroller" }
       ]
     },
     marketing: {
